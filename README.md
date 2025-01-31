@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HoucineDhieb
 - 👀 I’m interested in Video Games, Data Science and Music (Drums)
 - 🌱 I’m currently learning how to code with python, from WebScraping to ML, DL and Ai.
-- 📫 How to reach me : houcine.dhieb@gmail.com
+- 📫 How to reach me : dhieb.houcine@gmail.com
 - ⚡ Fun fact: Ai bots all agree that wife's always right!
 
 <!---
